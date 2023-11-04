@@ -24,6 +24,7 @@ Calculating accuracy, confusion matrix, and F1-score for each model.
 Visualizing the model performance using bar charts.
 You can follow the code in the notebook to understand the steps and results in detail.
 
-Results
+Results        
+
 The results of the two classification algorithms are compared in the notebook, including accuracy and F1-score. The results show how well the models performed in classifying diabetes outcomes based on the given health metrics.
 
