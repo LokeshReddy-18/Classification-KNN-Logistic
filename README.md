@@ -1,10 +1,13 @@
 # Diabetes Classification with K-Nearest Neighbors and Logistic Regression
+
 This repository contains Python code for performing diabetes classification using two machine learning algorithms: K-Nearest Neighbors (KNN) and Logistic Regression. The code also includes a comparison of the models' performance.
 
 Data
+
 The dataset used for this models is from {https://www.kaggle.com/datasets/saurabh00007/diabetescsv}, which contains information about various health metrics and the presence or absence of diabetes.
 
 Prerequisites
+
 To run this code, you need the following libraries:
 
 * numpy
